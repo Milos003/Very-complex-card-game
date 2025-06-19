@@ -25,7 +25,7 @@ Magical OOPerations is a two-player strategy card game inspired by *Magic the Ga
 
 ## 👥 Team Work
 
--- I have done this project with Florian Kerman and Stefan Jovic together
+-- I have done this project with Florian Kerman and Stefan Jovic together, it was done as a Uni project and everything you can see more in details in description folder.
 
 ## 🛠 How to Run
 
