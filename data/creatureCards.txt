@@ -1,0 +1,36 @@
+ID;Name;ManaCost;BaseAttack;BaseHealth;Traits 
+
+
+AGRAT;Angry Rat;1;1;1;Haste
+CADET;Cadet;1;2;1;
+FARMR;Farmer;1;1;2;Haste
+SQIRL;Squirrel Soldier;1;1;1;First Strike
+FSHLD;Floating Shield;2;0;8;
+NITMR;Nightmare;2;5;1;Haste,Temporary
+SOLDR;Soldier;2;3;4;
+SNAKE;Snake;2;2;1;Venomous
+HWOLF;Hungry Wolf;2;3;2;Brutal
+ZOMBI;Zombie;2;2;2;Undying
+ASASN;Assassin;3;5;2;First Strike
+CVLRY;Cavalry;3;4;4;Haste
+GLDTR;Gladiator;3;5;3;Challenger
+KNGHT;Knight;3;4;6;Haste
+VAMPS;Vampire Soldier;3;4;3;Lifesteal
+ALCHM;Alchemist;4;4;6;Venomous
+TUTOR;Evil Tutor;4;5;4;Challenger,Lifesteal
+TURTL;Giant Turtle;4;3;11;
+NINJA;Ninja;4;6;4;First Strike,Haste
+GUARD;Eternal Guardian;5;5;5;Haste,Undying
+RAPTR;Raptor;5;7;4;Brutal,First Strike
+WRLCK;Warlock;5;4;7;Lifesteal,Venomous
+GOLEM;Golem;6;5;12;Regenerate
+HYDRA;Hydra;6;7;6;Regenerate,Undying
+KINGV;King V;6;6;11;Challenger,Haste
+LLICH;Likeable Lich;7;9;6;Lifesteal,Undying
+T_REX;T-Rex;7;13;9;Brutal
+VAMPL;Vampire Lord;7;10;7;Challenger,Lifesteal
+ANGEL;Angel;8;9;14;Haste
+DRAGN;Dragon;8;13;10;Brutal,Challenger
+SLAYR;Slayer;8;15;6;First Strike,Haste
+D_GOD;Demi-God;9;15;15;Regenerate,Undying
+DEVIL;Devil;9;16;7;Brutal,First Strike

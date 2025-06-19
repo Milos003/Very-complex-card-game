@@ -1,0 +1,23 @@
+# Format: ID;Name;ManaCost;SpellType
+
+# General Spell Cards
+BTLCY;Battle Cry;3;General
+METOR;Meteor;4;General
+FIRBL;Fireball;5;General
+
+# Target Spell Cards
+CLONE;Clone;x;Target
+CURSE;Death Curse;x;Target
+SHOCK;Shock;1;Target
+MOBLZ;Mobilize;2;Target
+RRUSH;Rapid Rush;2;Target
+SHILD;Shield;2;Target
+AMPUT;Amputate;3;Target
+FINAL;Final Act;3;Target
+LYLTY;Loyalty;3;Target
+ZMBFY;Zombify;4;Target
+BLOOD;Bloodlust;5;Target
+
+# Graveyard Spell Cards
+MEMRY;Heroic Memory;x;Graveyard
+REVIV;Revive;2;Graveyard
